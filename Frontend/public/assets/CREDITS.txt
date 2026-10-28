@@ -1,0 +1,8 @@
+Teamora asset credits
+
+Abstract sphere by deecube1
+Source: https://sketchfab.com/3d-models/abstract-sphere-a525fc48c1d245e2883241e344773aa4
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Changes: textures resized from 1024 to 512 pixels and PNG palette compression; runtime framing and lighting.
+
+Orbital image: supplied Resources/Images/1.png, resized and encoded as WebP. License information was not supplied; review rights before public distribution.

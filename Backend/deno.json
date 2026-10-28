@@ -1,0 +1,12 @@
+{
+  "nodeModulesDir": "manual",
+  "deploy": {
+    "install": "npm ci --include=dev --ignore-scripts",
+    "build": "deno run -A node_modules/typescript/bin/tsc -p tsconfig.build.json",
+    "runtime": {
+      "type": "dynamic",
+      "entrypoint": "dist/server.js",
+      "cwd": "."
+    }
+  }
+}
